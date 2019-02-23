@@ -1,0 +1,21 @@
+{
+  "name": "gitbook-plugin-multi4098",
+  "version": "1.0.9",
+  "description": "",
+  "engines": {
+    "gitbook": ">=3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prowebber/gitbook-plugin-multi.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prowebber/gitbook-plugin-multi/issues"
+  },
+  "homepage": "https://github.com/prowebber/gitbook-plugin-multi#readme"
+}
