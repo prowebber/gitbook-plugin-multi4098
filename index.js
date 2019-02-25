@@ -1,6 +1,6 @@
 module.exports = {
     blocks: {
-        tag1:{
+        collapse:{
             process: function (block) {
                 // Get arguments passed via the {}
                 let title = block.kwargs.title || '';
